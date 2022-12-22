@@ -1,6 +1,6 @@
 .nav-menu-item, .header-cart-total, .prod-thumb-name, .badge, .product-option-select-container, .similar-products-title, .contact-form, .cart-item-details-name {
     font-family: 'Bebas Neue', sans-serif;
-    src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
+    src: url("https://github.com/dharmatype/Bebas-Neue/raw/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
     /*background-image: linear-gradient(#eee, #919191);
     background-clip: text;
     color: transparent;*/
@@ -8,30 +8,41 @@
   
   #option, #quantity {
     font-family: 'Basement Grotesque', sans-serif;
-    src: url("https://github.com/basementstudio/basement-grotesque/blob/master/public/fonts/grotesque/BasementGrotesque-Black_v1.202.woff");
+    src: url("https://github.com/basementstudio/basement-grotesque/raw/master/public/fonts/grotesque/BasementGrotesque-Black_v1.202.woff");
     /*
     font-family: 'Bebas Neue', sans-serif;
-    src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");  
+    src: url("https://github.com/dharmatype/Bebas-Neue/raw/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");  
     */
   }
   
   .page-title {
     font-family: 'Bebas Neue', sans-serif;
-    src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
+    src: url("https://github.com/dharmatype/Bebas-Neue/raw/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
     font-size: 3em;
   }
   
   .qs-modal-title {
     font-family: 'Bebas Neue', sans-serif;
-    src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
+    src: url("https://github.com/dharmatype/Bebas-Neue/raw/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
     font-size: 32px;
     padding-left: 5px;
   }
   
   h1, h3, .button.description-inventory-tab:first-of-type, .button.description-inventory-tab, .header-cart-count, {
     font-family: 'Bebas Neue', sans-serif;
-    src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
+    src: url("https://github.com/dharmatype/Bebas-Neue/raw/master/fonts/BebasNeue(2018)ByDhamraType/ttf/BebasNeue-Regular.ttf");
     font-size: 18px;
+  }
+  
+  p, .prod-thumb-price, .page-subheading-price, .product-description *, .add-to-cart-button, .product-form-quantity-button, .open-quickview-text, .cart-item-details-option, .cart-item-details-unit-price-inline, .cart-item-details-price {
+    font-family: 'Basement Grotesque', sans-serif;
+    src: url("https://github.com/basementstudio/basement-grotesque/raw/master/public/fonts/grotesque/BasementGrotesque-Black_v1.202.woff");
+  }
+  
+  .header-cart-count, .send-message-button, button, .button checkout-button has-right-icon {
+    font-family: 'Basement Grotesque', sans-serif;
+    src: url("https://github.com/basementstudio/basement-grotesque/raw/master/public/fonts/grotesque/BasementGrotesque-Black_v1.202.woff");
+    font-size: 22px;
   }
   
   p, .prod-thumb-price, .page-subheading-price, .product-description *, .add-to-cart-button, .product-form-quantity-button, .open-quickview-text, .cart-item-details-option, .cart-item-details-unit-price-inline, .cart-item-details-price {
